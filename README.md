@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @AnujM09
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AnujM09/AnujM09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there 👋
+🔭 I’m currently working on Data Science Projects
+🌱 I’m currently learning Machine Learning & Deep Learning
+🤔 I’m looking for help with Deep Learning & NLP
+💬 Ask me about Data Science, Machine Learning, Deep Learning
+📫 How to reach me: https://www.linkedin.com/in/anuj-menaria-810b23142/
+😄 Pronouns: He/Him
